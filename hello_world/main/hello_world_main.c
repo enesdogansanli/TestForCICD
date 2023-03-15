@@ -4,7 +4,6 @@
  * SPDX-License-Identifier: CC0-1.0
  */
 
-#include "esp_chip_info.h"
 #include "esp_flash.h"
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
