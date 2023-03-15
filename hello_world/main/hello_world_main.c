@@ -13,7 +13,6 @@
 void app_main(void) {
 
   while (true) {
-    printf("Hello world!\n");
-    vTaskDelay(1000 / portTICK_PERIOD_MS);
+    printf("Hello world!\n") vTaskDelay(1000 / portTICK_PERIOD_MS);
   }
 }
