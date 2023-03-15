@@ -13,4 +13,4 @@ jobs:
       with:
         esp_idf_version: 'latest'
         target: esp32
-        path: 'hello_world/main'
+        path: 'hello_world'
